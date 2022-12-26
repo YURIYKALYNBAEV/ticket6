@@ -10,7 +10,6 @@ public class Main {
         int[] newArr = new int[5];
         newArr = returnArray(arr);
         System.out.println(Arrays.toString(newArr));
-
     }
 
     public static int[] returnArray(int[] arrOne) {
